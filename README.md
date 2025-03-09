@@ -1,4 +1,4 @@
-# eleventy-base-blog v9
+# New Blog
 
 A starter repository showing how to build a blog with the [Eleventy](https://www.11ty.dev/) site generator (using the [v3.0 release](https://github.com/11ty/eleventy/releases/tag/v3.0.0)).
 
@@ -13,7 +13,7 @@ mkdir my-blog-name
 cd my-blog-name
 ```
 
-2. Clone this Repository
+2. Clone Repository
 
 ```
 git clone https://github.com/11ty/eleventy-base-blog.git .
